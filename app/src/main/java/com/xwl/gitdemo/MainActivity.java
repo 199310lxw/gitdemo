@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.e("TAG","第一次提交");
         Log.e("TAG","第二次提交");
+        Log.e("TAG","第三次提交");
     }
 }
